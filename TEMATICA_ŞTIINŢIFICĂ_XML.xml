@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-02-01T23:44:07.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="W8faEOdmMNsz7DK3Yn6Q" version="14.1.9" type="google">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2170" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-1" target="Vu0Ec6RUOKLDq9Ea5EaW-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-1" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Sistematică&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-2" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;clasificarea şi&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ca&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ac&lt;/span&gt;t&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;e&lt;/span&gt;ri&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;rea &lt;span style=&quot;letter-spacing: -0.1pt&quot;&gt;general&lt;/span&gt;ă&lt;br/&gt;a celor cinci regnuri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="90" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-3" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;mediul şi&lt;span style=&quot;letter-spacing: 0.15pt&quot;&gt; &lt;/span&gt;modul&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt; &lt;/span&gt;de&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt; &lt;/span&gt;viaţ&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ă&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="220" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-4" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;mor&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;f&lt;/span&gt;ol&lt;span style=&quot;letter-spacing: 0.15pt&quot;&gt;o&lt;/span&gt;gia&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="350" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-5" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;tipul&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt; &lt;/span&gt;de&lt;br/&gt;locomoţ&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-6" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;nutriţie&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="620" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-7" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;re&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;spir&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;ţ&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="750" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-8" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;r&lt;span style=&quot;letter-spacing: -0.1pt&quot;&gt;e&lt;/span&gt;p&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;r&lt;/span&gt;od&lt;span style=&quot;letter-spacing: 0.25pt&quot;&gt;u&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;er&lt;/span&gt;e&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="880" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-9" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;mp&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;l&lt;/span&gt;e&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;&amp;nbsp;e&lt;/span&gt;p&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;re&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;ntative&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: justify ; text-indent: 0cm ; font-stretch: normal ; font-size: 7pt ; line-height: normal ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify ; text-indent: 0cm&quot;&gt;Caracterizarea&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: justify&quot;&gt;generală&lt;/span&gt;&lt;span style=&quot;text-align: justify ; text-indent: 0cm&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1010" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-26" target="Vu0Ec6RUOKLDq9Ea5EaW-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-26" target="Vu0Ec6RUOKLDq9Ea5EaW-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-26" target="Vu0Ec6RUOKLDq9Ea5EaW-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-26" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Citologie&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-27" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Celula procariotă&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1790" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-28" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Celula eucariota&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="1920" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-29" target="Vu0Ec6RUOKLDq9Ea5EaW-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-29" target="Vu0Ec6RUOKLDq9Ea5EaW-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-29" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Diviziunea celulară&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="2050" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-35" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;diviziunea directă&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="2180" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-36" target="Vu0Ec6RUOKLDq9Ea5EaW-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-36" target="Vu0Ec6RUOKLDq9Ea5EaW-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-36" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;diviziunea cariochinetică&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="2310" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-37" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;mitoza&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="2440" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-38" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;meioza&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="2580" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-45" target="Vu0Ec6RUOKLDq9Ea5EaW-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-45" target="Vu0Ec6RUOKLDq9Ea5EaW-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-45" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Histologie&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="3350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-46" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Ţesuturile vegetale&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="3450" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-47" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Ţesuturile animale&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="3580" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-51" target="Vu0Ec6RUOKLDq9Ea5EaW-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-51" target="Vu0Ec6RUOKLDq9Ea5EaW-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-51" target="Vu0Ec6RUOKLDq9Ea5EaW-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-51" target="Vu0Ec6RUOKLDq9Ea5EaW-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-51" target="Vu0Ec6RUOKLDq9Ea5EaW-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-51" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Biologie vegetală şi animală&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="4980" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-52" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Segmentul receptor al analizatorilor la vertebrate&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="5090" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-53" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Sisteme de organe implicate în realizarea funcţiilor de nutriţie la vertebrate&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="5220" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-56" target="Vu0Ec6RUOKLDq9Ea5EaW-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-56" target="Vu0Ec6RUOKLDq9Ea5EaW-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-56" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Nutriţia&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="5350" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-57" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;autotrofă&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="5480" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-58" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;heterotrofa&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="5610" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-59" target="Vu0Ec6RUOKLDq9Ea5EaW-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-59" target="Vu0Ec6RUOKLDq9Ea5EaW-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-59" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Respiratia&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="5739" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-62" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;anaerobă&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="5869" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-63" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;aerobă&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="5999" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-69" target="Vu0Ec6RUOKLDq9Ea5EaW-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-69" target="Vu0Ec6RUOKLDq9Ea5EaW-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-69" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Reproducerea&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="6140" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-70" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;gimnosperme&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="6270" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-71" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;angiosperme&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="6400" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-76" target="Vu0Ec6RUOKLDq9Ea5EaW-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-76" target="Vu0Ec6RUOKLDq9Ea5EaW-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-76" target="Vu0Ec6RUOKLDq9Ea5EaW-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-76" target="Vu0Ec6RUOKLDq9Ea5EaW-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-76" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Anatomia şi fiziologia omului&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="6640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-77" target="Vu0Ec6RUOKLDq9Ea5EaW-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-77" target="Vu0Ec6RUOKLDq9Ea5EaW-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-77" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Sistemul nervos&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="6740" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-78" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;somatic&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="6870" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-79" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;vegetativ&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="7000" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-82" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Sistemul endocrin&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="7120" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-84" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Mediul intern şi circulaţia sângelui&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="7260" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-85" target="Vu0Ec6RUOKLDq9Ea5EaW-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-85" target="Vu0Ec6RUOKLDq9Ea5EaW-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-85" target="Vu0Ec6RUOKLDq9Ea5EaW-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-85" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Reproducerea la om şi educaţia sexuală&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="7400" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-86" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;contracepţia&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="7520" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-87" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;boli cu transmitere sexuală&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="7660" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-88" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;particularităţi morfofuncţionale şi comportamentale&lt;br/&gt;ale pubertăţii şi adolescenţei&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="7800" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-97" target="Vu0Ec6RUOKLDq9Ea5EaW-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-97" target="Vu0Ec6RUOKLDq9Ea5EaW-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-97" target="Vu0Ec6RUOKLDq9Ea5EaW-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-97" target="Vu0Ec6RUOKLDq9Ea5EaW-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-97" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Genetică&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="8300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-100" target="Vu0Ec6RUOKLDq9Ea5EaW-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-100" target="Vu0Ec6RUOKLDq9Ea5EaW-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-100" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Organizarea genomului&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="8400" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-101" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;procariote&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="8530" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-102" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;eucariote&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="8660" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-103" target="Vu0Ec6RUOKLDq9Ea5EaW-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-103" target="Vu0Ec6RUOKLDq9Ea5EaW-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-103" target="Vu0Ec6RUOKLDq9Ea5EaW-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-103" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Funcţiile materialului genetic&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="8780" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-104" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;replicaţie&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="8910" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-105" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;transcriere&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="9040" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-106" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;traducere&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="9170" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-107" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Cariotipul uman normal şi patologic&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="9310" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-108" target="Vu0Ec6RUOKLDq9Ea5EaW-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-108" target="Vu0Ec6RUOKLDq9Ea5EaW-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-108" target="Vu0Ec6RUOKLDq9Ea5EaW-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-108" value="&lt;span style=&quot;font-size: 14.6667px&quot;&gt;Domenii de aplicabilitate şi consideraţii bioetice în genetica umană&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="9450" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-109" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.05pt&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;tu&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;le&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.15pt&quot;&gt;ge&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.2pt&quot;&gt;n&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;i&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="9560" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-110" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;d&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;a&lt;/span&gt;gn&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;o&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;s&lt;/span&gt;t&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;u&lt;/span&gt;l&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.15pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;p&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;n&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;t&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;l,&lt;br/&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.15pt&quot;&gt;r&lt;/span&gt;tili&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;za&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;in&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.15pt&quot;&gt;v&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;t&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;o, &lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;l&lt;/span&gt;on&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; t&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;p&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;u&lt;/span&gt;ti&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;că&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="9680" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-111" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;p&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;g&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;n&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;că&lt;/span&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="9800" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-122" target="Vu0Ec6RUOKLDq9Ea5EaW-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-122" target="Vu0Ec6RUOKLDq9Ea5EaW-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vu0Ec6RUOKLDq9Ea5EaW-122" target="Vu0Ec6RUOKLDq9Ea5EaW-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-122" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Ecologie&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="9950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-123" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;Ca&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;ac&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;t&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;i&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;i&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;c&lt;/span&gt;i&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;l&lt;/span&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;o&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;s&lt;/span&gt;t&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;m&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;l&lt;/span&gt;or&lt;span style=&quot;letter-spacing: 0.15pt&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;n&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;o&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;te&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="10050" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-124" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;p&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;i&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;c&lt;/span&gt;ul&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;it&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ăţi&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.15pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;le&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;b&lt;/span&gt;i&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;o&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;opul&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;u&lt;/span&gt;i&lt;br/&gt;&lt;span style=&quot;letter-spacing: -0.2pt&quot;&gt;ş&lt;/span&gt;i bi&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;o&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;no&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="10180" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu0Ec6RUOKLDq9Ea5EaW-125" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;l&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;aţii&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.7pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;i&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;n&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.15pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.2pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;p&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;c&lt;/span&gt;i&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;c&lt;/span&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.7pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;în&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.6pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.15pt&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;o&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.2pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;s&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;m&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;e&lt;/span&gt;le&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.5pt&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;n&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;opi&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.15pt&quot;&gt;e&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="10310" width="170" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
