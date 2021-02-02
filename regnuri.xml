@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-02-02T00:47:27.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="kBBOjZMVyL-bSsaDsbae" version="14.1.9" type="google">
+  <diagram id="5u2JZGoKQzM1o355NT5M" name="Page-2">
+    <mxGraphModel dx="1447" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="8oVspe7gr74OzhhonIXL-0" />
+        <mxCell id="8oVspe7gr74OzhhonIXL-1" parent="8oVspe7gr74OzhhonIXL-0" />
+        <mxCell id="B2biW-xBO5YET02Bcwfk-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8oVspe7gr74OzhhonIXL-1" source="B2biW-xBO5YET02Bcwfk-2" target="B2biW-xBO5YET02Bcwfk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-2" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Sistematică&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8oVspe7gr74OzhhonIXL-1" source="B2biW-xBO5YET02Bcwfk-8" target="B2biW-xBO5YET02Bcwfk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8oVspe7gr74OzhhonIXL-1" source="B2biW-xBO5YET02Bcwfk-8" target="B2biW-xBO5YET02Bcwfk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8oVspe7gr74OzhhonIXL-1" source="B2biW-xBO5YET02Bcwfk-8" target="B2biW-xBO5YET02Bcwfk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8oVspe7gr74OzhhonIXL-1" source="B2biW-xBO5YET02Bcwfk-8" target="B2biW-xBO5YET02Bcwfk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8oVspe7gr74OzhhonIXL-1" source="B2biW-xBO5YET02Bcwfk-8" target="B2biW-xBO5YET02Bcwfk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-8" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;clasificarea şi&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ca&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ac&lt;/span&gt;t&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;e&lt;/span&gt;ri&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;rea &lt;span style=&quot;letter-spacing: -0.1pt&quot;&gt;general&lt;/span&gt;ă&lt;br/&gt;a celor cinci regnuri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="120" y="90" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-10" value="&lt;a href=&quot;https://ro.wikipedia.org/wiki/Categorie:Regnul_Animalia&quot; title=&quot;Categorie:Regnul Animalia&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; text-align: left&quot;&gt;Regnul Animalia&lt;/a&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="360" y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-11" value="&lt;a href=&quot;https://ro.wikipedia.org/wiki/Categorie:Regnul_Fungi&quot; title=&quot;Categorie:Regnul Fungi&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left&quot;&gt;Regnul Fungi&lt;/a&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;‎&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="360" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-12" value="&lt;a href=&quot;https://ro.wikipedia.org/wiki/Categorie:Regnul_Monera&quot; title=&quot;Categorie:Regnul Monera&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left&quot;&gt;Regnul Monera&lt;/a&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;‎&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="360" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-13" value="&lt;a href=&quot;https://ro.wikipedia.org/wiki/Categorie:Regnul_Plantae&quot; title=&quot;Categorie:Regnul Plantae&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left&quot;&gt;Regnul Plantae&lt;/a&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;‎&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="360" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B2biW-xBO5YET02Bcwfk-14" value="&lt;a href=&quot;https://ro.wikipedia.org/wiki/Categorie:Regnul_Protista&quot; title=&quot;Categorie:Regnul Protista&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left&quot;&gt;Regnul Protista&lt;/a&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 14px ; font-weight: 400 ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;‎&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="8oVspe7gr74OzhhonIXL-1">
+          <mxGeometry x="360" y="290" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
