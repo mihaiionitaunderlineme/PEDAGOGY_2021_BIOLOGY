@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2021-02-02T01:12:45.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="ZHyUK2jy_y6h39-nmLy8" version="14.1.9" type="google">
+  <diagram id="fq25yVO9QPn8zhppGZyG" name="Page-3">
+    <mxGraphModel dx="2480" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-0" />
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-1" parent="E6SHZcFNmlcxoUbtw3pc-0" />
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-3" target="E6SHZcFNmlcxoUbtw3pc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-3" value="&lt;span class=&quot;FontStyle28&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt&quot;&gt;Sistematică&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-9" target="E6SHZcFNmlcxoUbtw3pc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-9" value="&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif ; letter-spacing: -0.05pt&quot;&gt;clasificarea şi&lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ca&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;r&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;ac&lt;/span&gt;t&lt;span style=&quot;letter-spacing: 0.1pt&quot;&gt;e&lt;/span&gt;ri&lt;span style=&quot;letter-spacing: 0.05pt&quot;&gt;z&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.05pt&quot;&gt;a&lt;/span&gt;rea &lt;span style=&quot;letter-spacing: -0.1pt&quot;&gt;general&lt;/span&gt;ă&lt;br/&gt;a celor cinci regnuri&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="120" y="90" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.553;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-10" target="E6SHZcFNmlcxoUbtw3pc-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-10" target="E6SHZcFNmlcxoUbtw3pc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-10" target="E6SHZcFNmlcxoUbtw3pc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.558;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-10" target="E6SHZcFNmlcxoUbtw3pc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-10" value="&lt;a href=&quot;https://ro.wikipedia.org/wiki/Categorie:Regnul_Animalia&quot; title=&quot;Categorie:Regnul Animalia&quot; style=&quot;color: rgb(6 , 69 , 173) ; background: none rgb(255 , 255 , 255) ; font-family: sans-serif ; font-size: 14px ; text-align: left&quot;&gt;Regnul Animalia&lt;/a&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="40" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-16" value="Regnul Animalia: Nevertebrate – artropode&lt;br&gt;-sunt cele mai evoluate nevertebrate, întâlnite în toate mediile de viață;&lt;br&gt;-au corpul segmentat în două sau trei părți;&lt;br&gt;-prezintă mai multe perechi de picioare articulate;&lt;br&gt;-se înmulțesc prin ouă.&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="740" y="40" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-21" target="E6SHZcFNmlcxoUbtw3pc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-21" value="Arahnide" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="40" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-22" target="E6SHZcFNmlcxoUbtw3pc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-22" value="Crustacee" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="230" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-23" target="E6SHZcFNmlcxoUbtw3pc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-23" value="Miriapode" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="420" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-24" target="E6SHZcFNmlcxoUbtw3pc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-24" value="Insecte" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="800" y="290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-31" target="E6SHZcFNmlcxoUbtw3pc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-31" value="Păianjenii&lt;br/&gt;&lt;br&gt;Scorpionii&lt;br/&gt;&lt;br&gt;Căpușele" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="40" y="380" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-32" target="E6SHZcFNmlcxoUbtw3pc-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-32" value="Racul&lt;br/&gt;&lt;br&gt;Homarul&lt;br/&gt;&lt;br&gt;Crabul&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="230" y="380" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-33" target="E6SHZcFNmlcxoUbtw3pc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-33" value="Urechelnița" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="420" y="380" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E6SHZcFNmlcxoUbtw3pc-1" source="E6SHZcFNmlcxoUbtw3pc-34" target="E6SHZcFNmlcxoUbtw3pc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-34" value="Coleoptere – gândaci&lt;br/&gt;Lepidoptere – fluturi&lt;br/&gt;Himenoptere – albine, furnici, viespi&lt;br/&gt;Diptere – muște, țânțari" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="800" y="350" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-35" value="corp format din cefalotorace și abdomen;&lt;br&gt;&lt;br&gt;au 4 perechi de picioare; &lt;br&gt;&lt;br&gt;unele sunt veninoase (văduva neagră, scorpionul), altele parazite (căpușa, sarcopul râiei)." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="40" y="500" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-36" value="-majoritatea sunt acvatice;&lt;br&gt;&lt;br&gt;-corp format din cefalotorace și abdomen, acoperit de o crustă;&lt;br&gt;&lt;br&gt;-au antene și 5 perechi de picioare, prima pereche prezintă cleștii, celelalte au gheare;&lt;br&gt;&lt;br&gt;-respiră prin branhii." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="230" y="500" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-37" value="prezintă multe perechi de picioare.&lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="420" y="500" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-38" value="-cel mai numeros grup de animale;&lt;br&gt;&lt;br&gt;-corp format din cap, torace și abdomen;&lt;br&gt;&lt;br&gt;-capul prezintă antene și o gură adaptată modului de hrănire;&lt;br&gt;&lt;br&gt;-toracele are 3 segmente, de care se prind 3 perechi de picioare și, la majoritatea insectelor,&lt;br&gt;2 perechi de aripi;&lt;br&gt;&lt;br&gt;-respiră prin trahei;&lt;br&gt;&lt;br&gt;-se înmulțesc prin ouă, ciclul de dezvoltare fiind: ou – larvă – adult (metamorfoză&lt;br&gt;incompletă, la gândacii de bucătărie, libelule, greieri, lăcuste) sau ou – larvă – nimfă – adult&lt;br&gt;(metamorfoză completă, la majoritatea insectelor).&lt;br&gt;&lt;br&gt;-aripile externe sunt chitinoase – elitrele, a doua pereche de aripi sunt membranoase și&lt;br&gt;servesc la zbor;&lt;br&gt;&lt;br&gt;-aripi subțiri, membranoase, acoperite cu solzi;&lt;br&gt;&lt;br&gt;-au 2 perechi de aripi transparente, trăiesc în colonii, conduse de o regină;&lt;br&gt;&lt;br&gt;-o pereche de aripi membranoase, servesc la zbor, a doua este mult redusă (balansiere)." style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry x="630" y="490" width="510" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SHZcFNmlcxoUbtw3pc-48" value="Citation&amp;nbsp;&amp;nbsp;Nicoleta Eugenia Bursuc Date uploadedon May 11, 2020&lt;br&gt;&lt;a href=&quot;https://www.scribd.com/document/460950091/u5-l3-nevertebrate-artropode-pdf&quot;&gt;u5.l3.nevertebrate-artropode.pdf (scribd.com)&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="E6SHZcFNmlcxoUbtw3pc-1">
+          <mxGeometry y="1620" width="520" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
